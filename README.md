@@ -5,3 +5,5 @@ The rationale, simulation conditions (mapped from Kang et al., 2024), and result
 👉 [CALVADOS section: iDEC Cambridge 2026 wiki](https://idec-teams.github.io/2026_Cambridge/project/cahs/#calvados)
 
 This repo contains the notebook and scripts used to run the simulations.
+
+Developed for the Cambridge iDEC 2026 team, see [the wiki](https://idec-teams.github.io/2026_Cambridge/) for the full project
